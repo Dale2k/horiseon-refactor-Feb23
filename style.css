@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
-    padding: 10;
-    margin: 10;
+    padding: 5;
+    margin: 5;
 }
 
 /* update from 0 to 10 */
@@ -26,7 +26,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -44,22 +44,8 @@ body {
 }
 */
 
-.first {
-    display: inline-block;
-    margin-left: 10px;
-}
 
-.second {
-    display: inline-block;
-    margin-left: 85px;
-}
 
-.third {
-    display: inline-block;
-    margin-left: 175px;
-}
-
-/* three classes for the nav elements */
 
 a {
     color: #ffffff;
